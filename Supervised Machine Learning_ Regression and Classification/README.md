@@ -1,5 +1,5 @@
 
 
 
-<img src="full.png" alt="">
+<img src="sup.png" alt="">
 
