@@ -1,5 +1,2 @@
-
-
-
-<img src="full.png" alt="">
+<img src="adv.png" alt="">
 
